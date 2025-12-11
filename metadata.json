@@ -1,0 +1,5 @@
+{
+  "name": "Registro de Produção",
+  "description": "App para apontamento de produção industrial com suporte offline.",
+  "requestFramePermissions": []
+}
